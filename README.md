@@ -64,7 +64,7 @@ All detailed weekly topics and practice links are in **syllabus/syllabus.md**. A
 
 4. **Review Assignments**
 
-   - Check `assignments/assignment1_submission/` for the completed Assignment 1 source files and write-ups.
+   - Check `assignments/Solutions/` for the completed Assignment 1 source files and write-ups.
 
 ---
 
