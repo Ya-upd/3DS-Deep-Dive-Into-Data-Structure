@@ -14,7 +14,6 @@ cpp-algo-curriculum/
 ├── implementations/            # Code solutions for key data structures
 │   ├── 2d_prefix_sum.cpp       # 2D prefix-sum / submatrix sum implementation
 │   ├── order_set_multiset.cpp  # PBDS order_set and multiset implementation
-│   ├── segment_tree_iterative.cpp # Iterative segment tree implementation
 │   └── sparse_table.cpp        # Sparse table implementation
 ├── assignments/                # Submitted assignment files
 │   ├── Problem Statement       # Questions to be solved
